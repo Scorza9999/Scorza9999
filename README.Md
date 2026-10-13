@@ -1,7 +1,7 @@
 `#include <stdio.h>`
 
-```int main(void) {`
-`/*`
+```int main(void) {
+/*
 * # Hi :3
 * 
 * I'm a dev interested in OS, and in C++ and Rust (with a bit of C on the side). Low level software must be safe.
