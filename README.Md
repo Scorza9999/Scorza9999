@@ -1,6 +1,7 @@
 `#include <stdio.h>`
 
-```int main(void) {
+```
+int main(void) {
 /*
 * # Hi :3
 * 
@@ -20,4 +21,5 @@
 }
 /* 
  * [1]    1337 segmentation fault (core dumped)  ./about_me
- */```
+ */
+```
